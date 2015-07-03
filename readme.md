@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. Clone this project(git clone https://bincy77@bitbucket.org/bincy77/server-stat.git) or Download that ZIP file
+1. Clone this project(git clone https://github.com/bincygijo/serverstat.git) or Download that ZIP file
 2. Create a database, change .env file in root adding database details in respective variables
 3. On the command prompt run the following commands
 
