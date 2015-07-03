@@ -1,5 +1,6 @@
 # Server statistics test project  - Laravel, Bootstrap
 
+# Using API to retrive values from different server and the result listed in Line Graph
 
 ## Installation
 
