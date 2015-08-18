@@ -1,4 +1,4 @@
-# Server statistics test project  - Laravel, Bootstrap
+# Server statistics project  - Laravel, Bootstrap
 
 # Using API to retrive values from different server and the result listed in Line Graph
 
